@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642280551 source:c:\users\drilon\desktop\sfidat_programore_blend_saiti\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+
